@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Shoaib 👋
+# Hi, I'm Mohammed Shoaib 
 
 ### Computer Science & Data Science Graduate · Java Developer · AI/ML Enthusiast
 
