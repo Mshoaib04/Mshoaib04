@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Shoaib 
 
-### Computer Science & Data Science Graduate · Java Developer · AI/ML Enthusiast
+### Computer Science & Data Science Graduate · AI/ML Enthusiast
 
 📍 Hyderabad, India · 🎓 SRK Institute of Technology, 2021–2025
 
